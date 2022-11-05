@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/desarrollo-garrido/webcursos-back.git",
+  "author": "Antonio Garrido Garrido <desarrollo@garrido.pro>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
